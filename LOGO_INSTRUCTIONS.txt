@@ -1,0 +1,16 @@
+LOGO FILE LOCATION
+==================
+
+Place your logo file here: public/logo.png
+
+The logo should be:
+- Named: logo.png (lowercase)
+- Format: PNG (preferably with transparent background)
+- Colors: All black (as requested)
+- Location: public/ folder (same folder as this file)
+
+The public folder gets deployed with your website, so the logo will be accessible at:
+https://yourdomain.com/logo.png
+
+Current logo path in code: /logo.png
+Used in: src/components/Navigation.tsx
